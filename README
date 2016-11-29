@@ -1,19 +1,6 @@
-NetHack v.01a README
+XWingHack v0.0.1 README
 =============================================
 
-HTML5 Nethack clone created using crafty js. 
+HTML5 Nethack clone using XWing Miniatures ships forked from prior JS version of nethack. 
 
-
-Implemented
-=============================================
-
-* WASD movement
-* Static scene generation / level editor.
-* Random monster placement and AI.
-* Game overs
-* Combat flicker added to monsters in combat
-
-
-
-
-(c) nathan buskirk 2012
+(c) Joseph Moore 2016
